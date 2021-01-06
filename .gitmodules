@@ -1,0 +1,3 @@
+[submodule "mylibrarya"]
+	path = mylibrarya
+	url = git@github.com:RESTfulGOD/mylibrarya.git
